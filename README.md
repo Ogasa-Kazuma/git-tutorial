@@ -1,5 +1,5 @@
 # Gitチュートリアル
 
   - feature-A
-  fix-B-amend
+  fix-B-amend2
 
